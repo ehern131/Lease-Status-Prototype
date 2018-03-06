@@ -22,9 +22,8 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="ProtoMpMain"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="457"/>
-        <CursorPos X="26" Y="478"/>
+        <TopLine Value="458"/>
+        <CursorPos Y="466"/>
         <UsageCount Value="201"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -35,7 +34,7 @@
         <ComponentName Value="Form2"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="1"/>
         <TopLine Value="124"/>
         <CursorPos Y="134"/>
         <UsageCount Value="291"/>
@@ -56,8 +55,8 @@
       <Unit4>
         <Filename Value="..\ProtoUC\Proto.lpr"/>
         <UnitName Value="CA"/>
+        <EditorIndex Value="-1"/>
         <UsageCount Value="100"/>
-        <Loaded Value="True"/>
       </Unit4>
       <Unit5>
         <Filename Value="C:\lazarus\lcl\include\control.inc"/>
